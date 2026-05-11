@@ -1,23 +1,16 @@
 # 👋 Hi, I’m Veerendra (Puppala Veerendra)
 
-🔹 **Firmware Engineer | Embedded Software Engineer | IoT Engineer**  
-🔹 Passionate about building reliable, optimized embedded solutions that connect the digital and physical world.  
+🔹 **Firmware Engineer | Embedded Software Engineer | IoT Engineer** 🔹 Passionate about building reliable, optimized embedded solutions that connect the digital and physical world.  
 🔹 Exploring **astrophysics** alongside my love for embedded systems.  
 
 ---
 
 ## 🚀 About Me
-- 🛠️ Hands-on experience in **embedded systems, RTOS (FreeRTOS), and Embedded Linux (Yocto/RPi)**  
-- 💡 Skilled in **device driver development** directly from datasheets  
-- 🔗 Specialized in **LoRa, BLE, Modbus RTU, WiFi, CAN, and custom OTA mechanisms**  
-- 📟 Platforms: **ESP32, PIC, BGM220P, Raspberry Pi, LPC1768, ATmega328p, 8051**  
-- 🔧 Tools & IDEs: **ESP-IDF, MPLAB X, Keil, Simplicity Studio, Arduino IDE, Multipass**  
-- 🔬 Enjoys working on **bootloader design, NAND Flash interfacing, and protocol stacks**  
-- 📘 Curious innovator passionate about **physics, mathematics, and edge computing**  
+- 🛠️ Hands-on experience in **embedded systems, RTOS (FreeRTOS, Zephyr), and Embedded Linux (Yocto/RPi)** - 🔗 Specialized in wireless connectivity protocols including **LoRa, BLE, LTE cellular backhaul, Modbus RTU, WiFi, CAN, and custom OTA mechanisms** - 📟 Platforms: **ESP32, nRF52840, STM32, PIC, BGM220P, Raspberry Pi, LPC1768, ATmega328p, 8051** - 🔧 Tools & IDEs: **ESP-IDF, MPLAB X, Keil, Simplicity Studio, Arduino IDE, Multipass** - 🔬 Enjoys working on **bootloader design, NAND Flash interfacing, and complex protocol stacks** - 💡 Dedicated to independent, continuous learning—currently diving deep into **QEMU and Linux device drivers (ioctl, procfs)** - 📘 Curious innovator passionate about **physics, mathematics, and edge computing** ---
 
----
-
-## 🏗️ Featured Work
+## 🏗️ Featured Work & Projects
+- 🔹 **ESP32 LTE/LoRa Gateway** → Architected firmware to bridge local LoRa mesh networks to cloud backends via MQTT  
+- 🔹 **BLE Angle-of-Arrival (AoA) Firmware** → Implemented CTE-based IQ sampling for precise localization on a BGM220P platform  
 - 🔹 **LoRaWAN Leak Detection System** → Firmware for PIC16LF devices + ESP32 Gateway  
 - 🔹 **Custom LoRa-based OTA Bootloader** → Improved reliability by optimizing buffer management  
 - 🔹 **A7672S Module with ESP32 (AT Command Protocol)** → Reduced current consumption vs PPPoS  
@@ -28,8 +21,8 @@
 
 ## 🛠️ Tech Stack
 **Languages:** C, C++, Embedded C, Python, Shell Scripting, Assembly (8051)  
-**Protocols:** UART, SPI, I2C, BLE, LoRa, MQTT, Modbus RTU, CAN, WiFi  
-**RTOS & OS:** FreeRTOS, Embedded Linux (Yocto, Raspberry Pi)  
+**Protocols:** UART, SPI, I2C, BLE, LoRa, LTE, MQTT, Modbus RTU, CAN, WiFi  
+**RTOS & OS:** FreeRTOS, Zephyr, Embedded Linux (Yocto, Raspberry Pi)  
 **Collaboration Tools:** Git, Jira  
 
 ---
@@ -40,4 +33,4 @@
 
 ---
 
-⭐ Always open to collaborations on **IoT, embedded firmware, edge computing, and innovative embedded applications**.  
+⭐ Always open to collaborations on **IoT, embedded firmware, edge computing, and innovative embedded applications**.
